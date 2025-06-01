@@ -4,7 +4,7 @@ Welcome to my Deep Learning repository! This project is a personal collection of
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics Covered 
 
 This repository will include:
 
