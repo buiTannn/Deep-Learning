@@ -33,8 +33,4 @@ This project provides a visual comparison of different learning rate (LR) schedu
 - The plot is displayed using a logarithmic y-axis to clearly compare decays.
 - Each scheduler is visualized with a different color and marker style for clarity.
 
-Example output:
-
-![Learning Rate Scheduler Plot](path/to/output/plot.png) *(Replace with actual path if saving the image)*
-
 ---
