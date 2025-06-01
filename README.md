@@ -1,4 +1,4 @@
-# Deep-Learning# 🧠 Deep Learning with PyTorch
+# Deep Learning with PyTorch
 
 Welcome to my Deep Learning repository! This project is a personal collection of experiments, tutorials, and implementations using **PyTorch**. It focuses on building a strong foundation in deep learning and progressively explores more advanced models such as **ResNet** and **YOLO**.
 
