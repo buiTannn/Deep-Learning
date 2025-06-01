@@ -4,7 +4,8 @@ This project provides a visual comparison of different learning rate (LR) schedu
 
 ---
 ## Result
-![](image.png)
+![image](https://github.com/user-attachments/assets/e64e549d-952c-4f65-8fa1-0fb6bfc82301)
+
 ## Contents
 
 - `scheduler_comparison.py` — Main Python script that:
