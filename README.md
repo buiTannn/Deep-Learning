@@ -20,7 +20,7 @@ This repository will include:
 - Fine-tuning and transfer learning
 - Evaluation metrics (accuracy, confusion matrix)
 
-### Object Detection
+### Object Detection ( future )
 - Training custom YOLOv8 models
 - Annotating and preparing datasets
 - Evaluating detection results
